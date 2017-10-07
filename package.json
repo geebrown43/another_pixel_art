@@ -1,0 +1,15 @@
+{
+  "name": "another-pixel-art-maker",
+  "version": "1.0.0",
+  "description": "practice art maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin Brown",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1",
+    "hbs": "^4.0.1"
+  }
+}

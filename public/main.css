@@ -1,0 +1,174 @@
+h1 {
+    margin-left: 380px;
+    color: red;
+    font-size: 72px;
+    font-family: 'Indie Flower', cursive;
+}
+
+body {
+    background-color:rgb(172, 178, 185)
+}
+
+
+#canvas {
+    width: 700px;
+    height:500px;
+    margin-top: -20px;
+    margin-left: 15%;
+    border: 15px solid lightgray;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#selector {
+    margin-left: 15%;
+    display: inline;
+}
+
+.box {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgray
+}
+
+.red {
+    width: 8px;
+    height:8px;
+    border: 1px solid lightgrey;
+    background-color: red;
+}
+
+.blue {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: blue
+}
+
+.yellow {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: yellow
+}
+
+.orange {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: orange
+}
+
+.green {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: green
+}
+
+.purple {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: purple
+}
+
+.brown {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: brown
+}
+
+.gray {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: gray
+}
+
+.black {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: black
+}
+
+.white {
+    width: 8px;
+    height: 8px;
+    border: 1px solid lightgrey;
+    background-color: white
+}
+
+
+#container {
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 260px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.palette_red {
+    height: 50px;
+    width: 50px;
+    background-color: red
+}
+
+.palette_blue {
+    height: 50px;
+    width: 50px;
+    background-color: blue
+}
+
+.palette_yellow {
+    height: 50px;
+    width: 50px;
+    background-color: yellow
+}
+
+.palette_orange {
+    height: 50px;
+    width: 50px;
+    background-color: orange
+}
+
+.palette_green {
+    height: 50px;
+    width: 50px;
+    background-color: green
+}
+
+.palette_purple {
+    height: 50px;
+    width: 50px;
+    background-color: purple
+}
+
+.palette_brown {
+    height: 50px;
+    width: 50px;
+    background-color: brown
+}
+
+.palette_gray {
+    height: 50px;
+    width: 50px;
+    background-color: gray
+}
+
+.palette_black {
+    height: 50px;
+    width: 50px;
+    background-color: black
+}
+
+.palette_white {
+    height: 50px;
+    width: 50px;
+    background-color: white
+}
